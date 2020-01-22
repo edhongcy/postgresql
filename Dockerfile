@@ -1,6 +1,6 @@
 From dockage/phppgadmin:latest
 
-LABEL maintainer="ED Hong <edhong@qnap.com>"
+LABEL maintainer="ED Hong <edhongcy@gmail.com>"
 
 # fix bug 225556 postgresql tools is to old
 RUN echo "http://dl-cdn.alpinelinux.org/alpine/v3.9/main" >> /etc/apk/repositories \
